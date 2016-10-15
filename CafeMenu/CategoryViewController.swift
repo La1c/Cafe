@@ -7,6 +7,7 @@
 //
 
 import UIKit
+import SwiftyJSON
 
 class CategoryViewController: UIViewController {
     
@@ -46,6 +47,44 @@ class CategoryViewController: UIViewController {
     }
     
     func loadMenu() {
+        if let path = Bundle.main.path(forResource: "data", ofType: "json"), let data = NSData(contentsOfFile: path) {
+                let json = JSON(data: data as Data)
+                if let elements = json.array{
+                    for element in elements{
+                        if let categoryName = element["categoryItem"]["name"].string{
+                            let newCategory = CategoryItem(category: Categories(rawValue: categoryName)!)
+                            
+                            if let menuItems = element["categoryItem"]["items"].array{
+                                for menuItem in menuItems{
+                                    let newMenuItem = MenuItem()
+                                    newMenuItem.name = menuItem["menuItem"]["name"].string!
+                                    newMenuItem.descriptionText = menuItem["menuItem"]["description"].string
+                                    if let imagePath = Bundle.main.path(forResource: menuItem["menuItem"]["picture"].string, ofType: nil),
+                                        let img = NSData(contentsOfFile: imagePath){
+                                        newMenuItem.picture = UIImage(data: img as Data)
+                                    }
+                                    newCategory.items.append(newMenuItem)
+                                }
+                            }
+                            
+                            typesOfFood.append(newCategory)
+                        }
+                    }
+                    }
+                
+
+            }
+        
+        
+//        var data :NSData? =  FileUtility.dataFromPath("data") as? NSData
+//        let bundle = Bundle.mainBundle
+//        let path = bundle.pathForResource("data", ofType: "json")
+//        let content = NSString.stringWithContentsOfFile(path) as String
+//        print(content) // prints the content of data.json
+        
+        
+        
+        
         let category1 = CategoryItem(category: .bakery)
         let item1 = MenuItem()
         item1.name = "Muffin"

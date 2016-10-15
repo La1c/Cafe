@@ -1,0 +1,145 @@
+[
+		{"categoryItem":{
+			"name": "Coffee",
+			"items" :[
+				{"menuItem":{
+					"name":"Blonde Roast",
+					"description":"Lightly roasted coffee that's soft, mellow and flavorful. Easy-drinking on its own and delicious with milk, sugar or flavored with vanilla, caramel or hazelnut.",
+					"picture": "pics/Coffee/blondeRoast.jpg"
+				}
+				},
+								{"menuItem":{
+					"name":"Caffe Misto",
+					"description":"A one-to-one mix of fresh brewed coffee and steamed milk add up to one distinctly delicious coffee drink.",
+					"picture": "pics/Coffee/caffeMisto.jpg"
+				}
+				},
+								{"menuItem":{
+					"name":"Iced Coffee",
+					"description":"Freshly brewed Starbushe Iced Coffee Blend served chilled and lightly sweetened over ice.",
+					"picture": "pics/Coffee/icedCoffee.jpg"
+				}
+				},
+								{"menuItem":{
+					"name":"Iced Coffee with Milk",
+					"description":"Freshly brewed Starbushe Iced Coffee Blend with milk – served chilled and lightly sweetened over ice",
+					"picture": "pics/Coffee/icedWithMilk.jpg"
+				}
+				},
+								{"menuItem":{
+					"name":"Vanilla Sweet Cream Cold Brew",
+					"description":"Just before serving, our slow-steeped custom blend Narino 70 Cold Brew is topped with a delicate float of house-made vanilla sweet cream that cascades throughout the cup.",
+					"picture": "pics/Coffee/vanillaBrew.jpg"
+				}
+				},
+			]
+			}
+		},
+		{"categoryItem":{
+			"name": "Food",
+			"items" :[
+				{"menuItem":{
+					"name":"Ancho Chipotle Chicken",
+					"description":"We slow cook shredded chicken breast in warm spices, then add a thick ancho-chipotle sauce, fire-roasted poblano peppers, red onion and three-chili gouda cheese. Top this off with spicy cilantro pesto and serve it on an artisan-style ciabatta bread, and you're ready to savor a taste of the southwest.",
+					"picture": "pics/Food/anchoChicken.jpg"
+				}
+				},
+								{"menuItem":{
+					"name":"Egg Salad Sandwich",
+					"description":"Egg salad mixed with chives, dill relish and arugula on cider wheat bread.",
+					"picture": "pics/Food/eggSalad.jpg"
+				}
+				},
+								{"menuItem":{
+					"name":"Spinach, Feta & Cage Free Egg White Breakfast Wrap",
+					"description":"We bring together cage-free egg whites, spinach, feta cheese and tomatoes inside a whole wheat wrap, then toast it to perfection. Vegetarian and protein-rich, this low calorie wrap is a tasty start to any morning.",
+					"picture": "pics/Food/spinach.jpg"
+				}
+				},
+								{"menuItem":{
+					"name":"Hearty Blueberry Oatmeal",
+					"description":"A blend of rolled and steel-cut oats with blueberries and agave syrup.",
+					"picture": "pics/Food/oatmeal.jpg"
+				}
+				},
+								{"menuItem":{
+					"name":"Bacon, Gouda & Egg Breakfast Sandwich",
+					"description":"Sizzling Applewood smoked bacon, melty aged Gouda and a parmesan frittata are layered on an artisan roll for extra smoky breakfast goodness.",
+					"picture": "pics/Food/baconSandwich.jpg"
+				}
+				},
+			]
+			}
+			},
+					{"categoryItem":{
+			"name": "Bakery",
+			"items" :[
+				{"menuItem":{
+					"name":"Chonga Bagel",
+					"description":"A bagel topped with Cheddar cheese, poppy seeds, sesame seeds, onion and garlic.",
+					"picture": "pics/Bakery/bagel.jpg"
+				}
+				},
+								{"menuItem":{
+					"name":"Butter Croissant",
+					"description":"This classic Croissant is made with 100 percent butter to create a golden, crunchy top and soft, flakey layers inside. The perfect match for a cup of Pike Place Roast.",
+					"picture": "pics/Bakery/croissant.jpg"
+				}
+				},
+								{"menuItem":{
+					"name":"Chocolate Chunk Muffin",
+					"description":"Our moist, muffin is mixed with four (that’s right, four) different Colombian single-origin chocolates, including a milk chocolate and 3 unique semi-sweet chocolates. Craving chocolate, anyone?",
+					"picture": "pics/Bakery/chocoMuffin.jpg"
+				}
+				},
+								{"menuItem":{
+					"name":"Devil's Food Doughnut",
+					"description":"A classic glazed chocolate cake doughnut.",
+					"picture": "pics/Bakery/doughnut.jpg"
+				}
+				},
+								{"menuItem":{
+					"name":"Pumpkin Cheesecake Bar",
+					"description":"A honey graham crust baked with pumpkin gingerbread bursting with candied ginger, real pumpkin, cinnamon and nutmeg, topped with creamy Chicago-style cheesecake made with slow-cultured cream cheese and sour cream, finished with a swirl of lightly-spiced pumpkin cheesecake.",
+					"picture": "pics/Bakery/cheesecake.jpg"
+				}
+				},
+			]
+			}
+			},
+					{"categoryItem":{
+			"name": "Cakes",
+			"items" :[
+				{"menuItem":{
+					"name":"Chonga Bagel",
+					"description":"A bagel topped with Cheddar cheese, poppy seeds, sesame seeds, onion and garlic.",
+					"picture": "pics/Bakery/bagel.jpg"
+				}
+				},
+								{"menuItem":{
+					"name":"Butter Croissant",
+					"description":"This classic Croissant is made with 100 percent butter to create a golden, crunchy top and soft, flakey layers inside. The perfect match for a cup of Pike Place Roast.",
+					"picture": "pics/Bakery/croissant.jpg"
+				}
+				},
+								{"menuItem":{
+					"name":"Chocolate Chunk Muffin",
+					"description":"Our moist, muffin is mixed with four (that’s right, four) different Colombian single-origin chocolates, including a milk chocolate and 3 unique semi-sweet chocolates. Craving chocolate, anyone?",
+					"picture": "pics/Bakery/chocoMuffin.jpg"
+				}
+				},
+								{"menuItem":{
+					"name":"Devil's Food Doughnut",
+					"description":"A classic glazed chocolate cake doughnut.",
+					"picture": "pics/Bakery/doughnut.jpg"
+				}
+				},
+								{"menuItem":{
+					"name":"Pumpkin Cheesecake Bar",
+					"description":"A honey graham crust baked with pumpkin gingerbread bursting with candied ginger, real pumpkin, cinnamon and nutmeg, topped with creamy Chicago-style cheesecake made with slow-cultured cream cheese and sour cream, finished with a swirl of lightly-spiced pumpkin cheesecake.",
+					"picture": "pics/Bakery/cheesecake.jpg"
+				}
+				},
+			]
+			}
+			}]
