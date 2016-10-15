@@ -10,10 +10,11 @@ import UIKit
 
 class MenuViewController: UITableViewController {
 
-    var menuForThisCategory:CategoryItem!
+    var menuForThisCategory = CategoryItem(category: .cakes)
     
     override func viewDidLoad() {
         super.viewDidLoad()
+        
     }
 
     override func didReceiveMemoryWarning() {

@@ -111,33 +111,33 @@
 			"name": "Cakes",
 			"items" :[
 				{"menuItem":{
-					"name":"Chonga Bagel",
-					"description":"A bagel topped with Cheddar cheese, poppy seeds, sesame seeds, onion and garlic.",
-					"picture": "pics/Bakery/bagel.jpg"
+					"name":"Walnut & Ginger Fruit Cake Portion",
+					"description":"This light and nutty fruit cake is made with walnuts, crystallised ginger, almonds and vine fruits soaked in sherry, then hand-decorated with glace pineapples, glacé cherries and walnuts. It's a perfect match for our Assam tea.",
+					"picture": "pics/Cakes/walnut.jpg"
 				}
 				},
 								{"menuItem":{
-					"name":"Butter Croissant",
-					"description":"This classic Croissant is made with 100 percent butter to create a golden, crunchy top and soft, flakey layers inside. The perfect match for a cup of Pike Place Roast.",
-					"picture": "pics/Bakery/croissant.jpg"
+					"name":"Chocolate Ruffle Party Cake",
+					"description":"The perfect choice for chocolate lovers, who will adore this spectacular cake. Made from all-butter chocolate sponge, layered with rich chocolate buttercream, it is then decorated with panels of Swiss milk chocolate and handmade chocolate ruffles.\n To make each chocolate ruffle, melted Swiss milk chocolate is delicately spread on a frozen piece of marble, where it can then be crafted into a beautiful fan shape. Each is then dusted with icing sugar for a frosted look.",
+					"picture": "pics/Cakes/ruffle.jpg"
 				}
 				},
 								{"menuItem":{
-					"name":"Chocolate Chunk Muffin",
-					"description":"Our moist, muffin is mixed with four (that’s right, four) different Colombian single-origin chocolates, including a milk chocolate and 3 unique semi-sweet chocolates. Craving chocolate, anyone?",
-					"picture": "pics/Bakery/chocoMuffin.jpg"
+					"name":"Black Forest Cake",
+					"description":"Three layers of French chocolate cake filled with chocolate ganache, mascarpone cream and cherry Kirsch brandy jam. Topped with dark French fudge frosting, fresh bing cherries and chocolate shavings.",
+					"picture": "pics/Cakes/forest.jpg"
 				}
 				},
 								{"menuItem":{
-					"name":"Devil's Food Doughnut",
-					"description":"A classic glazed chocolate cake doughnut.",
-					"picture": "pics/Bakery/doughnut.jpg"
+					"name":"Caramel Cake",
+					"description":"Six layers of buttermilk cake soaked with vanilla bean syrup topped with our homemade brown sugar caramel cream.",
+					"picture": "pics/Cakes/caramel.jpg"
 				}
 				},
 								{"menuItem":{
-					"name":"Pumpkin Cheesecake Bar",
-					"description":"A honey graham crust baked with pumpkin gingerbread bursting with candied ginger, real pumpkin, cinnamon and nutmeg, topped with creamy Chicago-style cheesecake made with slow-cultured cream cheese and sour cream, finished with a swirl of lightly-spiced pumpkin cheesecake.",
-					"picture": "pics/Bakery/cheesecake.jpg"
+					"name":"Caramel Popcorn Cake",
+					"description":"Three layers of Valhrona chocolate cake filled with homemade caramel, caramel buttercream and topped with caramel popcorn from the ladies at ‘Just Pop In’. Drizzled with more caramel.",
+					"picture": "pics/Cakes/popcorn.jpg"
 				}
 				},
 			]
