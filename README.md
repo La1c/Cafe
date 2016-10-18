@@ -4,10 +4,10 @@ This is a menu app for a cafe.
 
 TO-DO:
 
-1. Add some data about cakes
-2. Make second screen look better
-3. Figure out how to scale buttons backgrounds properly
-4. Fix some bad code under the hood
+0. Separate model and data!!!
+1. Make second screen look better
+2. Figure out how to scale buttons backgrounds properly
+3. Fix some bad code under the hood
 
 Screenshots: 
 
