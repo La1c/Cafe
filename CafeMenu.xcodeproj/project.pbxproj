@@ -42,7 +42,6 @@
 		E71999E71DB15FB6004CCCB4 /* Categories.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Categories.swift; sourceTree = "<group>"; };
 		E752CBB71DB656DA00B2F640 /* DataModel.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = DataModel.swift; sourceTree = "<group>"; };
 		E752CBB91DB65D7500B2F640 /* ButtonWithGoodBackground.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ButtonWithGoodBackground.swift; sourceTree = "<group>"; };
-		E7A96E3E1DB66BE1009A0DDE /* CafeMenu-Bridging-Header.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "CafeMenu-Bridging-Header.h"; sourceTree = "<group>"; };
 		E7C9DFB91DB1A64F00ED3A90 /* data.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = data.json; sourceTree = "<group>"; };
 		E7C9DFBA1DB1A64F00ED3A90 /* pics */ = {isa = PBXFileReference; lastKnownFileType = folder; path = pics; sourceTree = "<group>"; };
 /* End PBXFileReference section */
@@ -79,7 +78,6 @@
 		E71999B71DB0DA35004CCCB4 = {
 			isa = PBXGroup;
 			children = (
-				E7A96E3E1DB66BE1009A0DDE /* CafeMenu-Bridging-Header.h */,
 				E71999C21DB0DA35004CCCB4 /* CafeMenu */,
 				E7C9DFB81DB1A63100ED3A90 /* Resources */,
 				E71999C11DB0DA35004CCCB4 /* Products */,
@@ -335,7 +333,7 @@
 				ONLY_ACTIVE_ARCH = YES;
 				SDKROOT = iphoneos;
 				SWIFT_ACTIVE_COMPILATION_CONDITIONS = DEBUG;
-				SWIFT_OBJC_BRIDGING_HEADER = "CafeMenu-Bridging-Header.h";
+				SWIFT_OBJC_BRIDGING_HEADER = "";
 				SWIFT_OPTIMIZATION_LEVEL = "-Onone";
 				TARGETED_DEVICE_FAMILY = "1,2";
 				USER_HEADER_SEARCH_PATHS = "";
@@ -380,7 +378,7 @@
 				IPHONEOS_DEPLOYMENT_TARGET = 10.0;
 				MTL_ENABLE_DEBUG_INFO = NO;
 				SDKROOT = iphoneos;
-				SWIFT_OBJC_BRIDGING_HEADER = "CafeMenu-Bridging-Header.h";
+				SWIFT_OBJC_BRIDGING_HEADER = "";
 				SWIFT_OPTIMIZATION_LEVEL = "-Owholemodule";
 				TARGETED_DEVICE_FAMILY = "1,2";
 				USER_HEADER_SEARCH_PATHS = "";
