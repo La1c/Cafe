@@ -18,6 +18,7 @@
 		E71999E41DB15D10004CCCB4 /* CategoryItem.swift in Sources */ = {isa = PBXBuildFile; fileRef = E71999E31DB15D10004CCCB4 /* CategoryItem.swift */; };
 		E71999E61DB15D44004CCCB4 /* MenuItem.swift in Sources */ = {isa = PBXBuildFile; fileRef = E71999E51DB15D44004CCCB4 /* MenuItem.swift */; };
 		E71999E81DB15FB6004CCCB4 /* Categories.swift in Sources */ = {isa = PBXBuildFile; fileRef = E71999E71DB15FB6004CCCB4 /* Categories.swift */; };
+		E752CBB81DB656DA00B2F640 /* DataModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = E752CBB71DB656DA00B2F640 /* DataModel.swift */; };
 		E7C9DFBB1DB1A64F00ED3A90 /* data.json in Resources */ = {isa = PBXBuildFile; fileRef = E7C9DFB91DB1A64F00ED3A90 /* data.json */; };
 		E7C9DFBC1DB1A64F00ED3A90 /* pics in Resources */ = {isa = PBXBuildFile; fileRef = E7C9DFBA1DB1A64F00ED3A90 /* pics */; };
 /* End PBXBuildFile section */
@@ -38,6 +39,7 @@
 		E71999E31DB15D10004CCCB4 /* CategoryItem.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = CategoryItem.swift; sourceTree = "<group>"; };
 		E71999E51DB15D44004CCCB4 /* MenuItem.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = MenuItem.swift; sourceTree = "<group>"; };
 		E71999E71DB15FB6004CCCB4 /* Categories.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Categories.swift; sourceTree = "<group>"; };
+		E752CBB71DB656DA00B2F640 /* DataModel.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = DataModel.swift; sourceTree = "<group>"; };
 		E7C9DFB91DB1A64F00ED3A90 /* data.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = data.json; sourceTree = "<group>"; };
 		E7C9DFBA1DB1A64F00ED3A90 /* pics */ = {isa = PBXFileReference; lastKnownFileType = folder; path = pics; sourceTree = "<group>"; };
 /* End PBXFileReference section */
@@ -104,6 +106,7 @@
 				E71999E71DB15FB6004CCCB4 /* Categories.swift */,
 				E71999E31DB15D10004CCCB4 /* CategoryItem.swift */,
 				E71999E51DB15D44004CCCB4 /* MenuItem.swift */,
+				E752CBB71DB656DA00B2F640 /* DataModel.swift */,
 			);
 			path = CafeMenu;
 			sourceTree = "<group>";
@@ -252,6 +255,7 @@
 				E71999C61DB0DA35004CCCB4 /* CategoryViewController.swift in Sources */,
 				E71999DE1DB11683004CCCB4 /* MenuViewController.swift in Sources */,
 				E71999C41DB0DA35004CCCB4 /* AppDelegate.swift in Sources */,
+				E752CBB81DB656DA00B2F640 /* DataModel.swift in Sources */,
 				E71999E41DB15D10004CCCB4 /* CategoryItem.swift in Sources */,
 				E71999DC1DB0EE1E004CCCB4 /* DetailsViewController.swift in Sources */,
 			);

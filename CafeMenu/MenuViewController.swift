@@ -9,7 +9,8 @@
 import UIKit
 
 class MenuViewController: UITableViewController {
-
+    
+    //To avoid empty menuForThisCategory
     var menuForThisCategory = CategoryItem(category: .cakes)
     
     override func viewDidLoad() {
