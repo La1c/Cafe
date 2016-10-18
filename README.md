@@ -11,6 +11,6 @@ TO-DO:
 
 Screenshots: 
 
-![MainPage](/../master/ScreenShots/screenshot1.png?raw=true "Optional Title")
+![FirstPage](/../master/ScreenShots/screenshot1.png?raw=true "Optional Title")
 ![MenuPage](/../master/ScreenShots/screenshot2.png?raw=true "Optional Title")
 ![DetailsPage](/../master/ScreenShots/screenshot3.png?raw=true "Optional Title")
